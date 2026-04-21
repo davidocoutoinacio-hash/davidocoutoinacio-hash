@@ -1,18 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗  █████╗ ██╗   ██╗██╗                             ║
-║    ██╔══██╗██╔══██╗██║   ██║██║                             ║
-║    ██║  ██║███████║██║   ██║██║                             ║
-║    ██║  ██║██╔══██║╚██╗ ██╔╝██║                             ║
-║    ██████╔╝██║  ██║ ╚████╔╝ ██║                             ║
-║    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝                             ║
-║                                                              ║
-║         Software Engineer  ·  Backend  ·  AI Systems        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="./davi.png" alt="Davi — Software Engineer · Backend · AI Systems" width="600" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=650&lines=Arquitetando+sistemas+que+escalam+%E2%9A%99%EF%B8%8F;RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+PostgreSQL;Do+dado+bruto+%C3%A0+intelig%C3%AAncia+aplicada+%F0%9F%A4%96;Brasil+%F0%9F%87%A7%F0%9F%87%B7+%E2%80%94+Engenheiro+de+Software)](https://git.io/typing-svg)
 
@@ -29,7 +17,7 @@
 ```yaml
 nome:       Davi
 país:       Brasil 🇧🇷
-foco:
+foco:       Desenvolvimento 
   - Backend Engineering
   - AI / RAG Systems
   - Multi-tenant SaaS
