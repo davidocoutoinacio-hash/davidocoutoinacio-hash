@@ -29,13 +29,13 @@ llms:  llama.cpp · FAISS · RAG Pipelines
       <img src="https://komarev.com/ghpvc/?username=davidocoutoinacio-hash&color=F5C542&style=flat-square&label=views" alt="Views" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=0" width="100%" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidocoutoinacio-hash&theme=transparent&background=0A0F2C00&border=111B4F&ring=F5C542&fire=FFD76A&currStreakLabel=F5C542&sideLabels=a0aec0&dates=a0aec0&currStreakNum=FFD76A&sideNums=FFD76A" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&theme=transparent&title_color=F5C542&text_color=a0aec0&border_color=111B4F&hide_border=false&langs_count=6&hide=cython,xslt,c,html,css,shell" width="43%" />
+  <img src="https://streak-stats.demolab.com?user=davidocoutoinacio-hash&theme=transparent&background=0A0F2C00&border=111B4F&ring=F5C542&fire=FFD76A&currStreakLabel=F5C542&sideLabels=a0aec0&dates=a0aec0&currStreakNum=FFD76A&sideNums=FFD76A&cache_seconds=0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&theme=transparent&title_color=F5C542&text_color=a0aec0&border_color=111B4F&hide_border=false&langs_count=6&hide=cython,xslt,c,html,css,shell&cache_seconds=0" width="43%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidocoutoinacio-hash&bg_color=0A0F2C&color=F5C542&line=F5C542&point=FFD76A&area=true&area_color=111B4F&border_color=111B4F&hide_border=false&height=180" width="97%" />
 </div>
