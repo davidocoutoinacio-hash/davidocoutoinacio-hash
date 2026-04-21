@@ -6,20 +6,17 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="left" valign="top">
-      <!-- conteúdo do lado esquerdo aqui -->
+   <td width="50%" align="left" valign="top">
 
-      ![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542)
-      ![Python](https://img.shields.io/badge/Python-0A0F2C?style=flat-square&logo=python&logoColor=FFD76A)
-      ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F2C?style=flat-square&logo=typescript&logoColor=F5C542)
-      ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=flat-square&logo=javascript&logoColor=FFD76A)
-      ![Go](https://img.shields.io/badge/Golang-0A0F2C?style=flat-square&logo=go&logoColor=F5C542)
-      ![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=flat-square&logo=postgresql&logoColor=FFD76A)
-      ![C#](https://img.shields.io/badge/C%23-0A0F2C?style=flat-square&logo=csharp&logoColor=F5C542)
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="95%" style="max-width: 400px;" />
-    </td>
+  <img src="https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0A0F2C?style=flat-square&logo=python&logoColor=FFD76A" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0F2C?style=flat-square&logo=typescript&logoColor=F5C542" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0F2C?style=flat-square&logo=javascript&logoColor=FFD76A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Golang-0A0F2C?style=flat-square&logo=go&logoColor=F5C542" alt="Go" />
+  <img src="https://img.shields.io/badge/SQL-0A0F2C?style=flat-square&logo=postgresql&logoColor=FFD76A" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%23-0A0F2C?style=flat-square&logo=csharp&logoColor=F5C542" alt="C#" />
+
+</td>
   </tr>
 </table>
 
