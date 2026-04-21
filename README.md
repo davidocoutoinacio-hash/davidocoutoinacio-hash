@@ -79,15 +79,15 @@ atualmente: Plataforma RAG de atendimento
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=F5C542)
+![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=openjdk&logoColor=F5C542)
+![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=FFD76A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F2C?style=for-the-badge&logo=typescript&logoColor=F5C542)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=FFD76A)
-![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=postgresql&logoColor=F5C542)
-![Bash](https://img.shields.io/badge/Bash-0A0F2C?style=for-the-badge&logo=gnubash&logoColor=FFD76A)
-![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5&logoColor=F5C542)
-![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3&logoColor=FFD76A)
+![Go](https://img.shields.io/badge/Golang-0A0F2C?style=for-the-badge&logo=go&logoColor=F5C542)
+![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=postgresql&logoColor=FFD76A)
+![CSharp](https://img.shields.io/badge/C%23-0A0F2C?style=for-the-badge&logo=csharp&logoColor=F5C542)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&theme=transparent&title_color=F5C542&text_color=a0aec0&border_color=111B4F&hide_border=false&langs_count=7" width="46%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&theme=transparent&title_color=F5C542&text_color=a0aec0&border_color=111B4F&hide_border=false&langs_count=7&hide=cython,xslt,c,html,css,shell" width="46%" />
 
 </div>
 
