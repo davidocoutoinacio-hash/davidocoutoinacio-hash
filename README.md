@@ -5,9 +5,6 @@
 </div>
 <table width="100%">
 <td width="50%" align="left" valign="top">
-  <!-- conteúdo do lado esquerdo aqui -->
-</td>
-</td>
 </table>
 
 ![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542)
