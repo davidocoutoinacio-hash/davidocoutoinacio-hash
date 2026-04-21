@@ -6,7 +6,7 @@
 
 <table width="100%">
   <tr>
-   <td width="50%" align="left" valign="top">
+  <td width="50%" align="center" valign="top">
 
   <img src="https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542" alt="Java" />
   <img src="https://img.shields.io/badge/Python-0A0F2C?style=flat-square&logo=python&logoColor=FFD76A" alt="Python" />
@@ -26,11 +26,11 @@
 <tr>
 <td width="50%" valign="top">
 
-```yaml
+  <pre>
 foco:  Backend · AI/RAG · Multi-tenant SaaS
 stack: FastAPI · PostgreSQL · React · Docker
 llms:  llama.cpp · FAISS · RAG Pipelines
-```
+  </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F2C?style=flat-square&logo=linkedin&logoColor=F5C542)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-0A0F2C?style=flat-square&logo=gmail&logoColor=F5C542)](mailto:SEU_EMAIL)
