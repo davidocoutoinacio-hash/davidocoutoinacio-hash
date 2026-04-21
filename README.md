@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./davi.png" alt="Davi — Software Engineer · Backend · AI Systems" width="580" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=580&lines=RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineer+%7C+AI+Systems+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+<img src="./davi.png" alt="Davi — Software Engineer · Backend · AI Systems" width="480" />
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=480&lines=RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineer+%7C+AI+Systems+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542)
 ![Python](https://img.shields.io/badge/Python-0A0F2C?style=flat-square&logo=python&logoColor=FFD76A)
