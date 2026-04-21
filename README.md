@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=480&lines=RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineer+%7C+AI+Systems+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing animation" />
 </div>
 <table width="100%">
-  <tr>
-    <td width="50%" align="left" valign="top">
+<td width="50%" align="left" valign="top">
+  <!-- conteúdo do lado esquerdo aqui -->
+</td>
 
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="95%" style="max-width: 400px;" />
-    </td>
-  </tr>
+<td width="50%" align="center" valign="top">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="95%" style="max-width: 400px;" />
+</td>
 </table>
 
 ![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542)
