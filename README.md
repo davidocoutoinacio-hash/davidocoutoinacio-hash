@@ -35,7 +35,7 @@ foco:
   - Multi-tenant SaaS
 atualmente: Plataforma RAG de atendimento
             com LLMs locais (llama.cpp)
-open_to:    Colaborações & oportunidades
+
 ```
 
 ## 🛠️ Stack
