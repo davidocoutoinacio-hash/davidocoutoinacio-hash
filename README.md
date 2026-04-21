@@ -6,6 +6,8 @@
 <table width="100%">
 <td width="50%" align="left" valign="top">
 
+  
+</table>
 
 ![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=F5C542)
 ![Python](https://img.shields.io/badge/Python-0A0F2C?style=flat-square&logo=python&logoColor=FFD76A)
