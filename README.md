@@ -3,7 +3,6 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=480&lines=RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineer+%7C+AI+Systems+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing animation" />
 </div>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -33,7 +32,6 @@ llms:  llama.cpp · FAISS · RAG Pipelines
     </td>
   </tr>
 </table>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=davidocoutoinacio-hash&theme=transparent&background=0A0F2C00&border=111B4F&ring=F5C542&fire=FFD76A&currStreakLabel=F5C542&sideLabels=a0aec0&dates=a0aec0&currStreakNum=FFD76A&sideNums=FFD76A&cache_seconds=0" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&theme=transparent&title_color=F5C542&text_color=a0aec0&border_color=111B4F&hide_border=false&langs_count=6&hide=cython%2Cxslt%2Cc%2Chtml%2Ccss%2Cshell" width="43%" />
