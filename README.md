@@ -29,7 +29,9 @@ llms:  llama.cpp · FAISS · RAG Pipelines
       <img src="https://komarev.com/ghpvc/?username=davidocoutoinacio-hash&color=F5C542&style=flat-square&label=views" alt="Views" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&theme=transparent&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&border_color=111B4F&rank_icon=github" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&hide_border=false&title_color=F5C542&icon_color=FFD76A&text_color=a0aec0&bg_color=0A0F2C&border_color=111B4F&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&hide_border=false&title_color=F5C542&text_color=a0aec0&bg_color=0A0F2C&border_color=111B4F&langs_count=6" width="100%" />
     </td>
   </tr>
 </table>
