@@ -25,13 +25,17 @@
 
   <br/><br/>
 
-```
-foco:  Backend · AI/RAG · Multi-tenant SaaS
-stack: FastAPI · PostgreSQL · React · Docker
-llms:  llama.cpp · FAISS · RAG Pipelines
-```
+  <img src="https://img.shields.io/badge/foco-Backend%20%C2%B7%20AI%2FRAG%20%C2%B7%20Multi--tenant%20SaaS-111B4F?style=for-the-badge&labelColor=0A0F2C&color=111B4F" alt="foco" />
 
   <br/>
+
+  <img src="https://img.shields.io/badge/stack-FastAPI%20%C2%B7%20PostgreSQL%20%C2%B7%20React%20%C2%B7%20Docker-111B4F?style=for-the-badge&labelColor=0A0F2C&color=111B4F" alt="stack" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/llms-llama.cpp%20%C2%B7%20FAISS%20%C2%B7%20RAG%20Pipelines-111B4F?style=for-the-badge&labelColor=0A0F2C&color=111B4F" alt="llms" />
+
+  <br/><br/>
 
   <a href="https://linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=flat-square&logo=linkedin&logoColor=F5C542" alt="LinkedIn" />
