@@ -51,12 +51,12 @@
 
   <img src="https://streak-stats.demolab.com?user=davidocoutoinacio-hash&theme=transparent&background=0A0F2C00&border=111B4F&ring=F5C542&fire=FFD76A&currStreakLabel=F5C542&sideLabels=a0aec0&dates=a0aec0&currStreakNum=FFD76A&sideNums=FFD76A"
        alt="GitHub Streak"
-       width="520" />
+       width="720" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidocoutoinacio-hash&bg_color=0A0F2C&color=F5C542&line=F5C542&point=FFD76A&area=true&area_color=111B4F&border_color=111B4F&hide_border=false&height=200"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidocoutoinacio-hash&bg_color=0A0F2C&color=F5C542&line=F5C542&point=FFD76A&area=true&area_color=111B4F&border_color=111B4F&hide_border=false&height=250"
        alt="Activity Graph"
-       width="520" />
+       width="720" />
 
 </div>
