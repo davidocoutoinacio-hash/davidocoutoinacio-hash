@@ -1,23 +1,10 @@
-<!-- ====================================================== -->
-<!--                    OCTOHORSE                            -->
-<!--                   DAVI I.C                              -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-<img
-  src="./assets/banner.png"
-  alt="Davi I.C — Engenharia de Software"
-  width="100%"
-/>
+<img src="./davi.png" alt="Davi I.C — Software Engineer · Backend · AI Systems" width="100%" />
 
 </div>
 
 <br>
-
-<!-- ====================================================== -->
-<!--                    PROFILE TAGS                         -->
-<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
@@ -51,12 +38,7 @@
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                     ABOUT                              -->
-<!-- ====================================================== -->
-
-<h2>Olá, eu sou o Davi.</h2>
+<h2>Olá, eu sou o Davi</h2>
 
 <table width="100%">
 <tr>
@@ -75,57 +57,33 @@ Meu foco está em:
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <table>
 
 <tr>
-<td>
-<img src="./assets/icons/mail.svg" width="18">
-</td>
-<td>
-<a href="mailto:davidocoutoinacio@gmail.com">
-davidocoutoinacio@gmail.com
-</a>
-</td>
+<td><img src="./assets/icons/mail.svg" width="18"></td>
+<td><a href="mailto:davidocoutoinacio@gmail.com">davidocoutoinacio@gmail.com</a></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/link.svg" width="18">
-</td>
-<td>
-<a href="https://davicouto.octohorse.com.br/">
-davicouto.octohorse.com.br
-</a>
-</td>
+<td><img src="./assets/icons/link.svg" width="18"></td>
+<td><a href="https://davicouto.octohorse.com.br/">davicouto.octohorse.com.br</a></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/linkedin.svg" width="18">
-</td>
-<td>
-<a href="https://linkedin.com/in/davi-inacio-685297363">
-davi-inacio-685297363
-</a>
-</td>
+<td><img src="./assets/icons/linkedin.svg" width="18"></td>
+<td><a href="https://linkedin.com/in/davi-inacio-685297363">davi-inacio-685297363</a></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/map-pin.svg" width="18">
-</td>
-<td>
-Brasil
-</td>
+<td><img src="./assets/icons/map-pin.svg" width="18"></td>
+<td>Brasil</td>
 </tr>
 
 </table>
 
 </td>
-
 
 <td width="20%" align="center" valign="middle">
 
@@ -144,13 +102,7 @@ Brasil
 </tr>
 </table>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                   TECHNOLOGIES                          -->
-<!-- ====================================================== -->
 
 <h2>Tecnologias e Ferramentas</h2>
 
@@ -185,40 +137,47 @@ Brasil
 
 </div>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                     GITHUB                              -->
-<!-- ====================================================== -->
 
 <h2>GitHub</h2>
 
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="34%" valign="top" align="center">
 
 <strong>Estatísticas</strong>
 
 <br><br>
 
 <img
-  height="170"
+  height="180"
   src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="32%" valign="top" align="center">
+
+<strong>Contribuições</strong>
+
+<br><br>
+
+<img
+  height="180"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=davidocoutoinacio-hash&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
+/>
+
+</td>
+
+<td width="34%" valign="top" align="center">
 
 <strong>Linguagens Mais Usadas</strong>
 
 <br><br>
 
 <img
-  height="170"
+  height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e"
 />
 
@@ -227,33 +186,21 @@ Brasil
 </tr>
 </table>
 
-
 <br>
 
-
-<!-- ====================================================== -->
-<!--                   CONTRIBUTIONS                         -->
-<!-- ====================================================== -->
-
-<h2>Gráfico de Contribuições</h2>
+<h3 align="center">Gráfico de Contribuições</h3>
 
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/39d353/davidocoutoinacio-hash"
+  src="https://ghchart.rshah.org/58a6ff/davidocoutoinacio-hash"
   width="100%"
-  alt="GitHub Contribution Graph"
+  alt="Gráfico de contribuições no GitHub"
 />
 
 </div>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                    ACTIVITY                             -->
-<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
@@ -262,66 +209,41 @@ Brasil
 
 <table>
 <tr>
-<td>
-<img src="./assets/icons/activity.svg" width="20">
-</td>
-<td>
-<h3>Atividade Recente</h3>
-</td>
+<td><img src="./assets/icons/activity.svg" width="20"></td>
+<td><h3>Atividade Recente</h3></td>
 </tr>
 </table>
 
 <table>
 
 <tr>
-<td>
-<img src="./assets/icons/git-commit.svg" width="17">
-</td>
-<td>
-Fez push em <strong>MedPlant-API</strong>
-</td>
+<td><img src="./assets/icons/git-commit.svg" width="17"></td>
+<td>Fez push em <strong>MedPlant-API</strong></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/git-pull-request.svg" width="17">
-</td>
-<td>
-Abriu um pull request em <strong>Vso-Medical-App</strong>
-</td>
+<td><img src="./assets/icons/git-pull-request.svg" width="17"></td>
+<td>Abriu um pull request em <strong>Vso-Medical-App</strong></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/git-commit.svg" width="17">
-</td>
-<td>
-Fez push em <strong>OctoSite</strong>
-</td>
+<td><img src="./assets/icons/git-commit.svg" width="17"></td>
+<td>Fez push em <strong>OctoSite</strong></td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/git-pull-request.svg" width="17">
-</td>
-<td>
-Revisou um pull request
-</td>
+<td><img src="./assets/icons/git-pull-request.svg" width="17"></td>
+<td>Revisou um pull request</td>
 </tr>
 
 <tr>
-<td>
-<img src="./assets/icons/git-commit.svg" width="17">
-</td>
-<td>
-Contribuiu em <strong>NMIro-OrquestradorIA</strong>
-</td>
+<td><img src="./assets/icons/git-commit.svg" width="17"></td>
+<td>Contribuiu em <strong>NMIro-OrquestradorIA</strong></td>
 </tr>
 
 </table>
 
 </td>
-
 
 <td width="48%" valign="top">
 
@@ -331,33 +253,25 @@ Contribuiu em <strong>NMIro-OrquestradorIA</strong>
 
 <tr>
 <td>Commits</td>
-<td>
-<img src="https://geps.dev/progress/95?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff">
-</td>
+<td><img src="https://geps.dev/progress/95?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff"></td>
 <td>95%</td>
 </tr>
 
 <tr>
 <td>Pull Requests</td>
-<td>
-<img src="https://geps.dev/progress/5?dangerColor=8957e5&warningColor=8957e5&successColor=8957e5">
-</td>
+<td><img src="https://geps.dev/progress/5?dangerColor=8957e5&warningColor=8957e5&successColor=8957e5"></td>
 <td>5%</td>
 </tr>
 
 <tr>
 <td>Issues</td>
-<td>
-<img src="https://geps.dev/progress/0">
-</td>
+<td><img src="https://geps.dev/progress/0"></td>
 <td>0%</td>
 </tr>
 
 <tr>
 <td>Code Review</td>
-<td>
-<img src="https://geps.dev/progress/0">
-</td>
+<td><img src="https://geps.dev/progress/0"></td>
 <td>0%</td>
 </tr>
 
@@ -368,32 +282,19 @@ Contribuiu em <strong>NMIro-OrquestradorIA</strong>
 </tr>
 </table>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                    PROJECTS                             -->
-<!-- ====================================================== -->
 
 <h2>Projetos em Destaque</h2>
 
 <table width="100%">
 <tr>
 
-
 <td width="33%" valign="top">
 
 <table>
 <tr>
-<td>
-<img src="./assets/icons/monitor.svg" width="18">
-</td>
-<td>
-<a href="https://github.com/davidocoutoinacio-hash/apresenta">
-<strong>apresenta</strong>
-</a>
-</td>
+<td><img src="./assets/icons/monitor.svg" width="18"></td>
+<td><a href="https://github.com/davidocoutoinacio-hash/apresenta"><strong>apresenta</strong></a></td>
 </tr>
 </table>
 
@@ -414,19 +315,12 @@ Portfólio pessoal e apresentação de projetos.
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <table>
 <tr>
-<td>
-<img src="./assets/icons/monitor.svg" width="18">
-</td>
-<td>
-<a href="https://github.com/davidocoutoinacio-hash/NMIro-OrquestradorIA">
-<strong>NMIro-OrquestradorIA</strong>
-</a>
-</td>
+<td><img src="./assets/icons/monitor.svg" width="18"></td>
+<td><a href="https://github.com/davidocoutoinacio-hash/NMIro-OrquestradorIA"><strong>NMIro-OrquestradorIA</strong></a></td>
 </tr>
 </table>
 
@@ -447,19 +341,12 @@ Orquestração visual de múltiplos agentes de IA em CLI, num canvas espacial lo
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <table>
 <tr>
-<td>
-<img src="./assets/icons/monitor.svg" width="18">
-</td>
-<td>
-<a href="https://github.com/davidocoutoinacio-hash/Vso-Medical-App">
-<strong>Vso-Medical-App</strong>
-</a>
-</td>
+<td><img src="./assets/icons/monitor.svg" width="18"></td>
+<td><a href="https://github.com/davidocoutoinacio-hash/Vso-Medical-App"><strong>Vso-Medical-App</strong></a></td>
 </tr>
 </table>
 
@@ -480,17 +367,10 @@ Sistema completo para gestão médica.
 
 </td>
 
-
 </tr>
 </table>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                    QUOTE                               -->
-<!-- ====================================================== -->
 
 <div align="center">
 
@@ -502,13 +382,7 @@ Sistema completo para gestão médica.
 
 </div>
 
-
 <br>
-
-
-<!-- ====================================================== -->
-<!--                    CONTACT                             -->
-<!-- ====================================================== -->
 
 <div align="center">
 
@@ -530,21 +404,11 @@ Sistema completo para gestão médica.
 
 </div>
 
-
 <br><br>
-
-
-<!-- ====================================================== -->
-<!--                 OCTOHORSE FOOTER                        -->
-<!-- ====================================================== -->
 
 <div align="center">
 
-<img
-  src="./assets/octohorse.png"
-  width="80"
-  alt="Octohorse Development"
-/>
+<img src="./assets/octohorse.png" width="80" alt="Octohorse Development" />
 
 <br>
 
