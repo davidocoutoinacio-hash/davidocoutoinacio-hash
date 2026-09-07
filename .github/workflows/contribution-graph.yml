@@ -1,0 +1,29 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and recolor contribution graph
+        run: |
+          curl -s "https://ghchart.rshah.org/58a6ff/davidocoutoinacio-hash" \
+            | sed -e 's/#EEEEEE/#161b22/g' -e 's/#767676/#8b949e/g' \
+            > assets/contribution-graph.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet || git commit -m "chore: update contribution graph"
+          git push

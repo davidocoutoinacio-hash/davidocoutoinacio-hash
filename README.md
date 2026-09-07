@@ -193,7 +193,7 @@ Meu foco está em:
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/58a6ff/davidocoutoinacio-hash"
+  src="./assets/contribution-graph.svg"
   width="100%"
   alt="Gráfico de contribuições no GitHub"
 />
@@ -404,25 +404,30 @@ Sistema completo para gestão médica.
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="./assets/octohorse.png" width="80" alt="Octohorse Development" />
-
-<br>
+<img src="./assets/octohorse.png" width="72" alt="Octohorse Development" />
 
 <h3>O C T O H O R S E</h3>
 
 <sub>DEVELOPMENT</sub>
 
-<br><br>
+<br>
 
-<sub>
-BACKEND &nbsp; · &nbsp;
-INTELIGÊNCIA ARTIFICIAL &nbsp; · &nbsp;
-SISTEMAS &nbsp; · &nbsp;
-ENGENHARIA DE SOFTWARE
-</sub>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=8B949E&center=true&vCenter=true&width=650&height=30&background=00000000&lines=BACKEND;INTELIG%C3%8ANCIA+ARTIFICIAL;SISTEMAS;ENGENHARIA+DE+SOFTWARE"
+  alt="Backend · Inteligência Artificial · Sistemas · Engenharia de Software"
+/>
+
+<table>
+<tr>
+<td align="center"><img src="./assets/icons/code-2.svg" width="16"><br><sub>BACKEND</sub></td>
+<td align="center"><img src="./assets/icons/brain-circuit.svg" width="16"><br><sub>IA</sub></td>
+<td align="center"><img src="./assets/icons/server.svg" width="16"><br><sub>SISTEMAS</sub></td>
+<td align="center"><img src="./assets/icons/code-xml.svg" width="16"><br><sub>SOFTWARE</sub></td>
+</tr>
+</table>
 
 </div>
