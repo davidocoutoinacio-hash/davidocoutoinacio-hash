@@ -152,7 +152,7 @@ Meu foco está em:
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=davidocoutoinacio-hash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff"
+  src="./assets/stats.svg"
 />
 
 </td>
@@ -178,7 +178,7 @@ Meu foco está em:
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidocoutoinacio-hash&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e"
+  src="./assets/top-langs.svg"
 />
 
 </td>
@@ -407,14 +407,6 @@ Sistema completo para gestão médica.
 <br>
 
 <div align="center">
-
-<img src="./assets/octohorse.png" width="72" alt="Octohorse Development" />
-
-<h3>O C T O H O R S E</h3>
-
-<sub>DEVELOPMENT</sub>
-
-<br>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=8B949E&center=true&vCenter=true&width=650&height=30&background=00000000&lines=BACKEND;INTELIG%C3%8ANCIA+ARTIFICIAL;SISTEMAS;ENGENHARIA+DE+SOFTWARE"
