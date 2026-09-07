@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./davi.png" alt="Davi I.C — Software Engineer · Backend · AI Systems" width="100%" />
+<img src="./assets/banner.png" alt="Davi I.C — Engenharia de Software" width="100%" />
 
 </div>
 
