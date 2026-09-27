@@ -350,7 +350,7 @@ Orquestração visual de múltiplos agentes de IA em CLI, num canvas espacial lo
 </tr>
 </table>
 
-<sub>PUBLIC</sub>
+<sub>PRIVATE</sub>
 
 <br><br>
 
